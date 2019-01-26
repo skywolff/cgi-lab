@@ -1,0 +1,22 @@
+Question 1:
+Use environ from the os module or use cgi.print_environ()
+
+Question 2:
+QUERY_STRING
+
+Question 3:
+HTTP_USER_AGENT
+
+Question 4:
+FieldStorage
+
+Question 5:
+Set-Cookie: key=value; key=value...
+
+Question 6:
+Cookie: key=value; key=value...
+
+Question 7:
+Cookies are used to store persistant data for the server on the client
+end.
+
